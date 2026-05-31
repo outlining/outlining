@@ -13,3 +13,7 @@ python | c++ | c | linux | bash | java | js | sql
 <p align="center">
   <a href="https://561.wtf">561.wtf</a>
 </p>
+
+<p align="center">
+  <small style="color: #666;">most of my repos are private, sorry.</small>
+</p>
