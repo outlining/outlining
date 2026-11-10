@@ -11,7 +11,7 @@ python | c++ | c | linux | bash | java | js | sql
 
 ---
 <p align="center">
-  <a href="https://561.wtf">561.wtf</a>
+  <a href="https://ac9.lol">blank</a>
 </p>
 
 <p align="center">
